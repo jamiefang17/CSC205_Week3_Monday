@@ -1,5 +1,6 @@
 package CSC205_Week3_Monday;
 
-public class Enums {
-    
-}
+enum Seasons {SPRING, SUMMER, FALL, WINTER};
+enum Major {ART, MATHMATICS, BUSINESS, ENGINEERING, EDUCATION, IT};
+enum Make {HONDA, FORD, TOYOTA, DODGE, GMC, MAZDA}
+enum BodyStyle {SEDAN, COUP, TRUCK, SUV, VAN}
